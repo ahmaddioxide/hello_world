@@ -1,6 +1,6 @@
 # hello_world
 
-A new Flutter project.
+A new Flutter project that contains Hello World Screen only
 
 ## Screenshot
 
